@@ -39,5 +39,5 @@ if (n<=0){
   alert( 'Степень должны быть > 0 и не равна 0');
 }else{
   alert( pow(x, n) );
-  console.log('x = ', ( pow(x, n) ))
+  console.log( 'pow(x, n) = ', ( pow(x, n) ));
 }
